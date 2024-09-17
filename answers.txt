@@ -1,0 +1,3 @@
+What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science can easily be applied to statistics because data science works with data and usually performs statistical operations on this data. This is the basis of our semester-long project.
