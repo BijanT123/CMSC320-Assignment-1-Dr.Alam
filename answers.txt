@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: Git makes it easy to collaborate on a project. For our semester-long project, this is useful as we will be working in groups. Additionally, git is something most students have used before, so most will have familiarity with it.
